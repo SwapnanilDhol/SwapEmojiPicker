@@ -39,8 +39,7 @@ If you like `SwapEmojiPicker` please consider buying me a coffee. 🥰
 
 <a href="https://www.buymeacoffee.com/swapnanildhol"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=swapnanildhol&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
-You can also view my iOS products on Gumroad:
-<a class="gumroad-button" href="https://swapnanildhol.gumroad.com/l/appTools" data-gumroad-overlay-checkout="true">Buy on</a>
+### [You can also view my iOS products on Gumroad](https://swapnanildhol.gumroad.com)
 
 ## Contributions 
 Contributions are always welcome. Please follow the following convention if you’re contributing:
