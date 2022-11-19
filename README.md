@@ -1,5 +1,9 @@
 # SwapEmojiPicker
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SwapnanilDhol/SwapEmojiPicker/main/swapemojipicker-header-image.png" width=1200 />
+</p>
+
 This is SwapEmojiPicker a simple SwiftUI Emoji Picker for your iOS 14+ applications. It has inbuilt search and delegate callbacks and binding to the selected emoji.
 
 ## Installation
