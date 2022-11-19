@@ -1,4 +1,4 @@
-#SwapEmojiPicker
+# SwapEmojiPicker
 
 This is SwapEmojiPicker a simple SwiftUI Emoji Picker for your iOS 14+ applications. It has inbuilt search and delegate callbacks and binding to the selected emoji.
 
@@ -40,8 +40,7 @@ If you like `SwapEmojiPicker` please consider buying me a coffee. 🥰
 <a href="https://www.buymeacoffee.com/swapnanildhol"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=swapnanildhol&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 You can also view my iOS products on Gumroad:
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://swapnanildhol.gumroad.com/l/appTools">Buy on</a>
+<a class="gumroad-button" href="https://swapnanildhol.gumroad.com/l/appTools" data-gumroad-overlay-checkout="true">Buy on</a>
 
 ## Contributions 
 Contributions are always welcome. Please follow the following convention if you’re contributing:
