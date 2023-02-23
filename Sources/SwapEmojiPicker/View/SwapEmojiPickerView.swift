@@ -11,6 +11,10 @@ public struct SwapEmojiPickerView: View {
 
     @ObservedObject var viewModel: SwapEmojiPickerViewModel
 
+    public init(viewModel: SwapEmojiPickerViewModel) {
+        self.viewModel = viewModel
+    }
+
     public var body: some View {
         NavigationView {
             ScrollView {

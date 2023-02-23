@@ -22,7 +22,7 @@ public final class SwapEmojiPickerViewModel: ObservableObject {
     var isSearching: Bool { !searchString.isEmpty }
 
     // MARK: - Init
-    init() {
+    public init() {
         prepareEmojis()
     }
 
