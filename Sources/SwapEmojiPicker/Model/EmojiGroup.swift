@@ -16,16 +16,16 @@ public struct EmojiGroup: Hashable, Codable {
         hasher.combine(name)
     }
 
-    let name, slug: String
-    let emojis: [EmojiObject]
+    public let name, slug: String
+    public let emojis: [EmojiObject]
 }
 
 // MARK: - Emoji Object
 public struct EmojiObject: Hashable, Codable {
-    let emoji: String
-    let skinToneSupport: Bool
-    let name, slug, unicodeVersion, emojiVersion: String
-    let skinToneSupportUnicodeVersion: String?
+    public let emoji: String
+    public let skinToneSupport: Bool
+    public let name, slug, unicodeVersion, emojiVersion: String
+    public let skinToneSupportUnicodeVersion: String?
 
     enum CodingKeys: String, CodingKey {
         case emoji
